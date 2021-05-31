@@ -9,3 +9,7 @@ Elements fonctionnels et testés avec postman: création d'user (sans l'ajout de
 Le market et l'user avec les cartes ne sont pas fonctionnels.
 
 Eléments du cachier des charges non réalisés: Room (zone de jeu), les bonus, les tests
+
+Lien du projet : https://github.com/MartinCoudR/Projet-ASI.git
+
+Lien youtube : 
